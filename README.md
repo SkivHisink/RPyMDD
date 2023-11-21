@@ -31,9 +31,13 @@ For R enthusiasts, this repository offers various options for data retrieval fro
 For Python users, this repository provides alternatives for data retrieval, ensuring flexibility and choice. The supported options include:
 
 **yfinance**: Retrieve financial data using the yfinance library.
+
 **pandas_datareader**: Access financial data through the pandas_datareader library.
+
 **Alpha Vantage**: Fetch data from Alpha Vantage API.
+
 **quandl**: Obtain financial and economic data from Quandl.
+
 **Finam.ru**: Access financial data using Python from the Finam.ru platform.
 
 ## About
