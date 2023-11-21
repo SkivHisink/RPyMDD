@@ -1,4 +1,5 @@
 # RPyMDD
+Welcome to the repository dedicated to setting up the environment for working with R and Python in Jupyter Notebooks within Visual Studio Code. This repository provides comprehensive information and code examples for preparing your development environment to seamlessly use R and Python for data analysis and visualization.
 ## Getting Started
 To get started with setting up your environment, follow the instructions provided in the respective files for R and Python. Each file contains detailed documentation and code examples for configuring your environment and utilizing the available data retrieval options.
 
@@ -26,4 +27,4 @@ For Python users, this repository provides alternatives for data retrieval, ensu
 **Finam.ru**: Access financial data using Python from the Finam.ru platform.
 
 ## About
-Feel free to explore, experiment, and enhance your data analysis capabilities with the rich features provided in this repository. Happy coding! 🚀
+This repository is based on Vyacheslav Arbuza's article, "Review of Packages for R for Market Data Downloading." Feel free to explore, experiment, and enhance your data analysis capabilities with the rich features provided in this repository. Happy coding! 🚀
