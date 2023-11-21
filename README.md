@@ -40,6 +40,11 @@ For Python users, this repository provides alternatives for data retrieval, ensu
 
 📌**Finam.ru**: Access financial data using Python from the Finam.ru platform.
 
+## TODO
+- [ ] Python: Add more Python APIs
+- [ ] Python: Fix problem with google finance
+- [ ] Python: Fix problem with finam
+
 ## About
 This repository is based on Vyacheslav Arbuza's article, "[Review of Packages for R for Market Data Downloading](https://github.com/SkivHisink/RPyMDD/blob/main/docs/OriginalArticle.pdf)" Feel free to explore, experiment, and enhance your data analysis capabilities with the rich features provided in this repository. 
 🚀 Happy coding! 🚀
