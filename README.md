@@ -8,15 +8,25 @@ To get started with setting up your environment, follow the instructions provide
 For R enthusiasts, this repository offers various options for data retrieval from different sources. The following data sources and packages are covered:
 
 **OANDA**: Access financial data through the OANDA API.
-**Google** Finance: Retrieve financial data using Google Finance.
+
+**Google Finance**: Retrieve financial data using Google Finance.
+
 **Finam.ru**: Obtain financial data from the Finam.ru platform.
+
 **Twitter**: Fetch data from Twitter using R.
+
 **FRED**: Access economic data through the Federal Reserve Economic Data (FRED) API.
+
 **Yahoo Finance**: Get financial data from Yahoo Finance.
+
 **DataMarket**: Utilize the DataMarket API for data retrieval.
+
 **Bloomberg**: Connect and retrieve data from Bloomberg.
+
 **ggplot2**: An implementation of the Grammar of Graphics for data visualization in R + Access various datasets.
+
 **Datasets**: Access various datasets for analysis.
+
 ### Python Environment Setup
 For Python users, this repository provides alternatives for data retrieval, ensuring flexibility and choice. The supported options include:
 
